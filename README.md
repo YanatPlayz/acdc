@@ -2,7 +2,7 @@
 
 Detect AI-generated speech by analyzing physical inconsistencies in acoustic signals. This project uses physics-based acoustic features rather than model-specific artifacts to distinguish authentic speech from synthetic audio across multiple voice cloning systems.
 
-Tanay Agrawal, Vihaan Byahatti, Akshith Chalamalasetty, Ashton Tovar Burke
+ Akshith Chalamalasetty, Tanay Agrawal, Vihaan Byahatti, Ashton Tovar Burke
 
 ## Core Hypothesis
 
@@ -54,7 +54,6 @@ Binary classifier trained on fused features.
 
 **Candidate models:**
 - CNN
-- MLP (feedforward neural network)
 - Random Forest
 - XGBoost
 - SVM (baseline)
@@ -145,13 +144,14 @@ cosmos-project-26/
 - OmniVoice synthetic dataset generation
 - Full feature extraction pipeline
 - Feature fusion
-- Machine learning training
+- Machine learning training and model configuration and creation
 
 📋 Planned:
 - End-to-end classifier
 - Hyperparameter tuning
 - Cross-model generalization experiments
 - Comprehensive evaluation on unseen deepfake models
+- Connect all three types of models together using an ML pipeline that takes outputs of each model as inputs for pipeline.
 
 ## Research Contribution
 
