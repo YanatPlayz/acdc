@@ -1,4 +1,4 @@
-# ACDC (Audio Consistency Deepfake Checker
+# ACDC (Audio Consistency Deepfake Checker)
 
 Detect AI-generated speech by analyzing physical inconsistencies in acoustic signals. This project uses physics-based acoustic features rather than model-specific artifacts to distinguish authentic speech from synthetic audio across multiple voice cloning systems.
 
