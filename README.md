@@ -2,7 +2,7 @@
 
 Detect AI-generated speech by analyzing physical inconsistencies in acoustic signals. This project uses physics-based acoustic features rather than model-specific artifacts to distinguish authentic speech from synthetic audio across multiple voice cloning systems.
 
-Tanay Agrawal, Vihaan Byuhatti, Akshith Chalamalasetty, Ashton Tovar Burke
+Tanay Agrawal, Vihaan Byahatti, Akshith Chalamalasetty, Ashton Tovar Burke
 
 ## Core Hypothesis
 
