@@ -1,0 +1,52 @@
+## REPLACE NEW AND IMPROVED VERSION OF .GITIGNORE HERE ##
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data (optional - uncomment if datasets are too large)
+# datasets/
+# *.wav
+# *.mp3
+
+# Model checkpoints (optional - uncomment if too large)
+# models/checkpoints/
+# results/
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
