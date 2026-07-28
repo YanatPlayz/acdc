@@ -98,10 +98,9 @@ python models/evaluate.py
 
 **Signal Processing:**
 - LPC (Linear Predictive Coding)
-- Cepstral analysis
 - Mel spectrograms
 - Reflection coefficients
-- Blind deconvolution
+- Feature extraction of human and synthetic speech (e.g. reverberation, #add more)
 
 ## Repository Structure
 
